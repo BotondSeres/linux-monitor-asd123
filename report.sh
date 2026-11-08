@@ -6,3 +6,5 @@ echo "Felhasználó: $(whoami)"
 echo "Dátum: $(date '+%Y-%m-%d')"
 echo "Üzemidő:"
 uptime -p
+echo "Memóriaadatok:"
+free -h
