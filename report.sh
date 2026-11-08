@@ -8,3 +8,4 @@ echo "Üzemidő:"
 uptime -p
 echo "Memóriaadatok:"
 free -h
+#Modositottam haha
