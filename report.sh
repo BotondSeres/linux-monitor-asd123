@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Bela STATUS REPORT"
+echo "PROJECT STATUS REPORT"
 echo "Gépnév: $(hostname)"
 echo "Felhasználó: $(whoami)"
 echo "Dátum: $(date '+%Y-%m-%d')"
