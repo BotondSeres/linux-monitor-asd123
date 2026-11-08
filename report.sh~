@@ -1,0 +1,14 @@
+#!/bin/bash
+
+<<<<<<< HEAD
+echo "Bela STATUS REPORT"
+=======
+echo "AnnaSTATUS REPORT"
+>>>>>>> feature/title
+echo "Gépnév: $(hostname)"
+echo "Felhasználó: $(whoami)"
+echo "Dátum: $(date '+%Y-%m-%d')"
+echo "Üzemidő:"
+uptime -p
+echo "Memóriaadatok:"
+free -h
